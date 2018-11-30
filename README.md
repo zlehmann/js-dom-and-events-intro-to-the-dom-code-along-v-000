@@ -193,3 +193,4 @@ Finally, we practiced working directly with the DOM.
 
 [html-block-elements]: https://developer.mozilla.org/en/docs/Web/HTML/Block-level_elements
 [html-inline-elements]: https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements
+
