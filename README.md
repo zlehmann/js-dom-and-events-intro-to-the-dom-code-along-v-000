@@ -41,7 +41,7 @@ starting and ending tag:
 
 Some nodes only have a starting tag. Those are called _self-closing_ elements.
 These elements do not have any content nested inside of them (more technically,
-they are called _void_ elements). They cannot, therefore, be parents nodes.
+they are called _void_ elements). They cannot, therefore, be parent nodes.
 
 An example of a self-closing tag is an image:
 
